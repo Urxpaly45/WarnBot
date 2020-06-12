@@ -8,7 +8,7 @@
       
    updates: See the bot's update log
 
-   vote: Vote for the bot on [top.gg](https://top.gg/bot/635977560492081162/)
+   vote: Vote for the bot on verified websites
 
    tips: Useful Discord tips
 
@@ -39,3 +39,10 @@
    0.2: Announce, Rules, & Update Log Commands added
 
    0.3: Ping, Vote, & Tips Commands added, Clear Command fixed to delete the correct number of messages
+
+
+# Verified On...
+
+   ### [Top.gg](https://top.gg/bot/635977560492081162/)
+   
+   [![Discord Bots](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
