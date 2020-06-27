@@ -37,6 +37,3 @@
    ### [Top.gg](https://top.gg/bot/635977560492081162/)
    
    [![Top.gg](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
-
-   <script src="https://discordbotlist.com/widget/index.js"></script>
-   <dbl-widget bot-id="bot-warnbot" centered></dbl-widget>
