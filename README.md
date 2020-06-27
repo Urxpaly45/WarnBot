@@ -14,21 +14,21 @@
 
    ping: Pong! See the bot's ping
 
-### Moderation (MUST have administrative permissions in this server to use these commands):
+### Moderation (Permissions required in parenthensis):
 
-   clear \[number]: Clear specified number of previous messages. (Max 100)
+   clear \[number]: Clear specified number of previous messages. The max is 100 (Manage Messages)
 
-   mute \[@user] (Reason): Mute mentioned member for listed reason
+   mute \[@user] (Reason): Mute mentioned member for listed reason (Kick)
 
-   unmute \[@user]: Unmute mentioned user
+   unmute \[@user]: Unmute mentioned user (Kick)
 
-   warn \[@user] (Reason): Warn mentioned member for listed reason
+   warn \[@user] (Reason): Warn mentioned member for listed reason (Kick)
 
-   kick \[@user] (Reason): Kick mentioned member for listed reason
+   kick \[@user] (Reason): Kick mentioned member for listed reason (Kick)
 
-   ban \[@user] (Reason): Ban mentioned member for listed reason
+   ban \[@user] (Reason): Ban mentioned member for listed reason (Ban)
 
-   announce \[announcement]: Announce something in the server you want to announce it in
+   announce \[announcement]: Announce something in the server you want to announce it in (Manage Server)
         
 -----
 
@@ -36,4 +36,6 @@
 
    ### [Top.gg](https://top.gg/bot/635977560492081162/)
    
-   [![Discord Bots](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
+   [![Top.gg](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
+   
+   [![DiscordBotList.com](https://discordbotlist.com/widget/index.js)]
