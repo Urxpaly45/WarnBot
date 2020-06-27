@@ -8,7 +8,7 @@
       
    updates: See the bot's update log
 
-   vote: Vote for the bot on verified websites
+   vote: Vote for the bot on verified bot lists
 
    tips: Useful Discord tips
 
