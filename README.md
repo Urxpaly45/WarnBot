@@ -13,6 +13,10 @@
    tips: Useful Discord tips
 
    ping: Pong! See the bot's ping
+   
+   cool-servers: See some servers that WarnBot suggests
+   
+   suggest: Get the link to make a suggestion
 
 ### Moderation (Permissions required in parenthensis):
 
@@ -29,6 +33,8 @@
    ban \[@user] (Reason): Ban mentioned member for listed reason (Ban)
 
    announce \[announcement]: Announce something in the server you want to announce it in (Manage Server)
+   
+   talk \[text]: Talk as WarnBot (Manage Messages)
         
 -----
 
