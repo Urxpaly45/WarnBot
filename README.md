@@ -8,7 +8,7 @@
       
    updates: See the bot's update log
 
-   vote: Vote for the bot on verified bot lists
+   vote: Vote for the bot on (verified bot lists)[https://github.com/Urxpaly45/WarnBot#verified-on]
 
    tips: Useful Discord tips
 
