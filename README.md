@@ -44,6 +44,10 @@
    
    [![Top.gg](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
    
+   ### [DiscordBotList.com](https://discordbotlist.com/bots/warnbot)
+   
+   [![Discord Bot List](https://imgur.com/a/kuLaHbq)](https://discordbotlist.com/bots/warnbot)
+   
    ### [BotsForDiscord.com](https://botsfordiscord.com/bots/635977560492081162)
    
    [![Bots for Discord](https://botsfordiscord.com/api/bot/635977560492081162/widget)](https://botsfordiscord.com/bots/635977560492081162)
