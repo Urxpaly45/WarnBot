@@ -46,7 +46,7 @@
    
    ### [DiscordBotList.com](https://discordbotlist.com/bots/warnbot)
    
-   [![Discord Bot List](https://imgur.com/a/kuLaHbq)](https://discordbotlist.com/bots/warnbot)
+   [![Discord Bot List](https://discordbotlist.com/bots/warnbot)](https://imgur.com/a/kuLaHbq)
    
    ### [BotsForDiscord.com](https://botsfordiscord.com/bots/635977560492081162)
    
