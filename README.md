@@ -43,3 +43,7 @@
    ### [Top.gg](https://top.gg/bot/635977560492081162/)
    
    [![Top.gg](https://top.gg/api/widget/635977560492081162.svg)](https://top.gg/bot/635977560492081162)
+   
+   ### [BotsForDiscord.com](https://botsfordiscord.com/bots/635977560492081162)
+   
+   [![Bots for Discord](https://botsfordiscord.com/api/bot/635977560492081162/widget)](https://botsfordiscord.com/bots/635977560492081162)
