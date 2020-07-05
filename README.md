@@ -51,3 +51,7 @@
    ### [BotsForDiscord.com](https://botsfordiscord.com/bots/635977560492081162)
    
    [![Bots for Discord](https://botsfordiscord.com/api/bot/635977560492081162/widget)](https://botsfordiscord.com/bots/635977560492081162)
+   
+   ### [Discord.Bots.gg](https://discord.bots.gg/bots/635977560492081162/)
+   
+   [![Discord Bots](https://i.imgur.com/U1KChuj.png)](https://discord.bots.gg/bots/635977560492081162/)
