@@ -1,3 +1,6 @@
+# DISCONTINUED :(
+##### for the time being :)
+
 # Commands:
 
 ### General:
